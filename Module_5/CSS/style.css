@@ -1,0 +1,27 @@
+h1 {text-align: center;}
+
+.red {color: tomato;}
+
+.blue {color: royalblue;}
+
+.green {color: seagreen;}
+
+.big {font-size: xx-large;}
+
+.small {font-size: xx-small;}
+
+.center {text-align: center;}
+
+.bold {font-weight: bold;}
+
+.different {font-style: italic;}
+
+.orange {color: orange;}
+
+.bob {color: orange;
+        font-size: xx-large;
+        font-weight: bold;}
+
+.styledFont {color: mediumorchid; font-weight: bold;}
+
+.border {border-style: dotted; border-width: thick; border-color: limegreen;}

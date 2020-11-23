@@ -1,0 +1,9 @@
+header tags on the header
+added paragraphs to the about section
+corrected the wiki link anchor
+added list tags to favorite things
+adjusted color labes correct on the buttons
+changed js file path
+added quotes to facts in js
+added quotes to pink path in js
+added quotes to the button paths for shrink and grow in js
